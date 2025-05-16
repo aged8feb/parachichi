@@ -1,0 +1,26 @@
+.App{
+  text-align: center;
+  padding: 2rem;
+}
+body {
+
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: darkcyan;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+h1  {
+  color: whitesmoke;
+}
+img {
+  width: 200px;
+  border-radius: 100px;
+  border: 2px solid #c8cda5;
+  margin-top: 1rem;
+}
